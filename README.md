@@ -11,7 +11,7 @@
 
 > ### **Snowfall이란?**
 >
-> - 크리스마스를 기념하여 만든 프로그램입니다.
+> - 크리스마스를 기념하여 만든 프로그램입니다. (1920x1080 해상도만 지원합니다.)
 > - PC에 눈이 내립니다. (항상 위에 고정)
 > - 설정을 통해 눈이 생기는 수량을 설정할 수 있습니다. 기본값: 50 (수량을 너무 높게 설정하면 렉이 발생할 수 있습니다.)
 > - 트리와 올라프를 잡고 이동시킬 수 있으며, 마우스 휠로 투명도를 설정할 수 있습니다.
@@ -33,4 +33,4 @@
 
 > ### **다운로드**
 >
-> - [실행 파일 다운로드](https://raw.githubusercontent.com/banb3515/Snowfall/main/Downloads/Snowfall.exe)
+> - [실행 파일 다운로드](https://github.com/banb3515/Snowfall/blob/master/Downloads/Snowfall.exe)
