@@ -33,4 +33,4 @@
 
 > ### **다운로드**
 >
-> - [실행 파일 다운로드](https://github.com/banb3515/Snowfall/blob/master/Downloads/Snowfall.exe)
+> - [실행 파일 다운로드](https://github.com/banb3515/Snowfall/raw/master/Downloads/Snowfall.exe)
