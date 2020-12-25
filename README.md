@@ -20,7 +20,7 @@
 
 > ### **스크린샷**
 >
-> ![Snowfall 스크린샷](https://raw.githubusercontent.com/banb3515/Snowfall/main/Screenshots/Screenshot.gif)
+> ![Snowfall 스크린샷](https://github.com/banb3515/Snowfall/blob/master/Screenshots/Screenshot.gif)
 
 ---
 
