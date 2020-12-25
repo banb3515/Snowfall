@@ -38,7 +38,7 @@ namespace Snowfall
             if (left > width + ActualWidth)
                 return true;
 
-            if (top > height - ActualHeight)
+            if (top > height - ActualHeight + 50)
                 return true;
 
             return false;
